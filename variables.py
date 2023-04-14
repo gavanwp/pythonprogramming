@@ -1,5 +1,6 @@
 a = ("hello this is first varibale")
 print(a)
+
 b = ("i am gavan kumar wordpress developer and desinger")
 print(b)
 c = (12)
